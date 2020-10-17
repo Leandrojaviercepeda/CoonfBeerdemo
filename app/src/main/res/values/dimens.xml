@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="altoLogoBeer">200dp</dimen>
+    <dimen name="toolbarImage">70dp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+    <dimen name="imageViewHome">150dp</dimen>
+    <dimen name="marginHomeSuptitulo">10dp</dimen>
+    <dimen name="tamanioTitulo">20sp</dimen>
+    <dimen name="tamanioSubtitulo">15sp</dimen>
+    <dimen name="itemScheduleTitulo">30sp</dimen>
+</resources>

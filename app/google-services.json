@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "849815560563",
+    "firebase_url": "https://examplecoonfbeerdeemo.firebaseio.com",
+    "project_id": "examplecoonfbeerdeemo",
+    "storage_bucket": "examplecoonfbeerdeemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849815560563:android:1d3b0734f1b7f6f9cfa506",
+        "android_client_info": {
+          "package_name": "com.example.coonfbeerdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849815560563-q67iuvrov7n0cgd5qsgldhj5nbav7pts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coonfbeerdemo",
+            "certificate_hash": "3c80e8488e79b26e60b330db88ba059f6421630d"
+          }
+        },
+        {
+          "client_id": "849815560563-4d9rarpbb86amsr2jckt6cne2q6loile.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKP9Dz2WEy1zYMpr0d4_89YpbvN2J78z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849815560563-4d9rarpbb86amsr2jckt6cne2q6loile.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
